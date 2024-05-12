@@ -10,4 +10,4 @@ Sınıflar
 3. Randevu
     - Randevu tarihini, ilgili doktoru ve hastayı içerir.
 
-![WhatsApp Image 2024-04-14 at 11 48 55](https://github.com/Munavvarbegim/MunavvarbegimOdilbekovaProje/assets/168825452/7df5efb0-455c-48b1-9f5a-a7c9aac058c4)
+<img width="1470" alt="Снимок экрана 2024-05-12 в 23 56 55" src="https://github.com/Munavvarbegim/proje2/assets/168825452/db86604f-b0f5-44df-812c-3c608e908c5f">
